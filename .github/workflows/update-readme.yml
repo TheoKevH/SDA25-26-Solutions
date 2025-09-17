@@ -28,3 +28,5 @@ jobs:
           git add README.md
           git commit -m "chore: update README timestamp" || echo "No changes to commit"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
