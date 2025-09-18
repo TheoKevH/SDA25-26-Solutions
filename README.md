@@ -12,6 +12,25 @@ Last Updated: 17-09-2025
 | [Lab 1✅](Lab/Lab1.java) |
 | [Lab 2✅](Lab/Lab2.java) |
 
+### Helpful Extensions (you might want to install these...)
+
+1. **CPH Judge**
+
+    To run test cases simultaneously. Helps to speed up debugging. You do not need to run each test case manually any more.
+
+    >Link: [CPH Judge](https://marketplace.visualstudio.com/items?itemName=DivyanshuAgrawal.competitive-programming-helper )
+
+2. **Debug Visualizer**
+
+    Tool to visualize your data structures. Helps you understand what goes on with your data structures when you run your program. Extremely helpful for TP.
+
+    >Link: [Debug Visualizer](https://marketplace.visualstudio.com/items?itemName=hediet.debug-visualizer)
+3. **Error Lens**
+
+    Shows errors directly on your workspace.
+
+    >Link: [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+
 ## Quick Guide
 
 ### 1. Clone this repo
