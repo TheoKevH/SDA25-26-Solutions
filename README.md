@@ -12,7 +12,7 @@ Last Updated: 17-09-2025 19:32:13 WIB
 | [Lab 1✅](Lab/Lab1.java) |
 | [Lab 2✅](Lab/Lab2.java) |
 
-### Helpful Extensions (you might want to install these...)
+## Helpful Extensions (you might want to install these...)
 
 1. **CPH Judge**
 
