@@ -12,6 +12,7 @@ Last Updated: 19-09-2025 17:14:40 WIB
 | [Lab 1 ✅](Lab/Lab1.java) |
 | [Lab 2 ✅](Lab/Lab2.java) |
 | [Lab 3 ✅](Lab/Lab3.java) |
+| [Lab 4 ✅](Lab/Lab4.java) |
 
 ## Helpful Extensions (you might want to install these...)
 
