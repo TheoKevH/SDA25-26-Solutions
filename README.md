@@ -7,9 +7,9 @@ Lab & TP Answer Key for Data Structures and Algorithm (SDA) course Odd Sem. 2025
 
 Last Updated: 26-09-2025 15:38:22 WIB
 
-| Lab |
-| --- |
-| [Lab 1 ✅](Lab/Lab1.java) |
+| Lab | Lab |
+| --- | --- |
+| [Lab 1 ✅](Lab/Lab1.java) | [Lab 5 ✅](Lab/Lab5.java) | 
 | [Lab 2 ✅](Lab/Lab2.java) |
 | [Lab 3 ✅](Lab/Lab3.java) |
 | [Lab 4 ✅](Lab/Lab4.java) |
