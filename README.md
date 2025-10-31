@@ -10,7 +10,7 @@ Last Updated: 26-09-2025 15:40:18 WIB
 | Lab | Lab |
 | --- | --- |
 | [Lab 1 ✅](Lab/Lab1.java) | [Lab 5 ✅](Lab/Lab5.java) | 
-| [Lab 2 ✅](Lab/Lab2.java) |
+| [Lab 2 ✅](Lab/Lab2.java) | [Lab 6 ✅](Lab/Lab6.java) |
 | [Lab 3 ✅](Lab/Lab3.java) |
 | [Lab 4 ✅](Lab/Lab4.java) |
 
